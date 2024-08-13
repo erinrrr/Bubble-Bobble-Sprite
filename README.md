@@ -14,15 +14,24 @@ Sprite of 28 blocks, 8x8 each [Blockssprite_8x8.png](res/block_and_map1/Blockssp
 
 
 ## Player1 Sprite
-contains IDLE, UP, DOWN, LEFT, RIGHT, DEAD, SHOOTING 
-(shooting animation of the player not the bubble)
+contains:
+- IDLE
+- UP
+- DOWN
+- LEFT
+- RIGHT
+- DEAD
+- SHOOTING (shooting animation of the player not the bubble)
+
 matrix = 6 rows x 4 columns (64x96) (16x16 each)
 
 
 ## Zen-Chan 
-contains: normal, red, and blue IDLE animation
-green, blue and red IN_BUBBLE animation
-and death animation
+contains:
+- normal, red, and blue IDLE animation
+- green, blue and red IN_BUBBLE animation
+- death animation
+
 matrix = 7 rows x 4 columns (64x112) (16x16 each)
 
 
