@@ -2,7 +2,7 @@
 
 ![](res/menu/menu7.png)
 
-some sprite for bubble bobble
+here there are some sprite for bubble bobble, if u want them all check [this file](res\Bubble_Bobble_Arcade.png)
 
 ### Menu contains all sprites of the logo (178x144)
 
@@ -34,3 +34,5 @@ contains:
 - death animation
 
 matrix = 7 rows x 4 columns (64x112) (16x16 each)
+
+
