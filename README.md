@@ -13,7 +13,7 @@ Level 1 map is in blue and green, r.value = 0 for the blue, and 3 for the green 
 Sprite of 28 blocks, 8x8 each [Blockssprite_8x8.png](res/block_and_map1/Blockssprite_8x8.png)
 
 
-## ![P1](res\player1\Player1_24x24.png) Player1
+## ![P1](res/player1/Player1_24x24.png) Player1
 
 contains:
 - IDLE
@@ -27,7 +27,7 @@ contains:
 matrix = 6 rows x 4 columns (64x96) (16x16 each)
 
 
-## ![zen](res\enemies\zenChan24x24.png) Zen-Chan 
+## ![zen](res/enemies/zenChan24x24.png) Zen-Chan 
 contains:
 - normal, red, and blue IDLE animation
 - green, blue and red IN_BUBBLE animation
