@@ -13,7 +13,7 @@ Level 1 map is in blue and green, r.value = 0 for the blue, and 3 for the green 
 Sprite of 28 blocks, 8x8 each [Blockssprite_8x8.png](res/block_and_map1/Blockssprite_8x8.png)
 
 
-## ![P1](res/player1/Player1_24x24.png) Player1
+## ![P1](res/player1/PlayerOne_24x24.png) BUBBLUN (player1)
 
 contains:
 - IDLE
@@ -25,6 +25,20 @@ contains:
 - SHOOTING (shooting animation of the player not the bubble)
 
 matrix = 6 rows x 4 columns (64x96) (16x16 each)
+
+## ![P2](res\player2\PlayerTwo_24x24.png) BOBBLUN (player2)
+
+contains:
+- IDLE
+- UP
+- DOWN
+- LEFT
+- RIGHT
+- DEAD
+- SHOOTING (shooting animation of the player not the bubble)
+
+matrix = 6 rows x 4 columns (64x96) (16x16 each)
+
 
 
 ## ![zen](res/enemies/zenChan24x24.png) Zen-Chan 
