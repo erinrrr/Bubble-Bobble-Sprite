@@ -26,7 +26,7 @@ contains:
 
 matrix = 6 rows x 4 columns (64x96) (16x16 each)
 
-## ![P2](res\player2\PlayerTwo_24x24.png) BOBBLUN (player2)
+## ![P2](res/player2/PlayerTwo_24x24.png) BOBBLUN (player2)
 
 contains:
 - IDLE
