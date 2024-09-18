@@ -47,7 +47,7 @@ matrix = 6 rows x 4 columns (64x96) (16x16 each)
 
 
 
-## ![Zen Chan](res/enemies/zenChan/ZenChan24x24.png) Zen-Chan 
+## ![Zen Chan](res/enemies/ZenChan/zenChan24x24.png) Zen-Chan 
 contains:
 - normal, red, and blue IDLE animation
 - green, blue and red IN_BUBBLE animation
