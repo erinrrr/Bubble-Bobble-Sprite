@@ -40,7 +40,6 @@ contains:
 - LEFT
 - RIGHT
 - DEAD
-- 
 - SHOOTING (shooting animation of the player not the bubble)
 
 matrix = 6 rows x 4 columns (64x96) (16x16 each)
@@ -67,7 +66,7 @@ cause of the projectile
 
 todo: upload mighta projectile
 
-## Bubbles [[Bubbles Folder](res/bubble/bubbles.png)] 
+## Bubbles [[Bubbles Folder](res/bubbles)] 
 ![](res/bubbles/Normal%20Bubble.png) ![](res/bubbles/Blue%20Bubble.png) ![](res/bubbles/Thunder%20Bubble.png)
 - Normal Bubble
 - Blue Bubble (for the second player)
